@@ -1,4 +1,5 @@
 String datas = "";
+int i;
 void setup() {
   Serial.begin(9600); // opens serial port, sets data rate to 9600 bps
   pinMode(LED_BUILTIN, OUTPUT);
@@ -6,9 +7,15 @@ void setup() {
 }
 
 void loop() {
-  // send/receive data only when you receive data:
+  // send/receive data 
+  Serial.println(i);
+  i++;
+  delay(100);
   if (Serial.available() > 0) {
-    // read the incoming byte ( char = 1 byte ) :
+   
+    
+
+     // read the incoming byte ( char = 1 byte ) :
     datas = (char)Serial.read(); // only reads 1 byte of data
 
 /*
