@@ -4,4 +4,4 @@ Created an HMI using Visual Studio C# which sends one byte of data each time a b
 
 This HMI is a test for future HMIs that I am planning to design for a self-driving mobile robot.
 
-Not: Receiving serial data is not working, therefore serial com. configurations need to be fixed.)
+
