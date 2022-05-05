@@ -1,9 +1,0 @@
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\bin\Debug\ArduinoHMI.exe.config
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\bin\Debug\ArduinoHMI.exe
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\bin\Debug\ArduinoHMI.pdb
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.csprojAssemblyReference.cache
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.Properties.Resources.resources
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.csproj.GenerateResource.cache
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.exe
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.pdb
-C:\Users\asus200201\source\repos\ArduinoHMI\ArduinoHMI\obj\Debug\ArduinoHMI.Form1.resources
